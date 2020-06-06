@@ -1,0 +1,104 @@
+body {
+  margin: 40px;
+  text-align: center;
+  font-family: papyrus;
+  font-size: 200%;
+  color: #40514e
+}
+
+
+h1 {
+  font-size: 5.62rem;
+  font-family: 'Dancing Script', cursive;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+}
+
+h2 {
+  padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+hr {
+    border: dotted #d6cbd3 6px;
+    border-bottom: none;
+    width:4%;
+    margin: 100px auto;
+  }
+
+.copyright{
+  color: #eaf6f6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+a{
+  color: #11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+.food-img{
+  float:left;
+  margin-right: 30px;
+  width: 30%;
+
+}
+
+
+.makeup{
+  float: right;
+  width: 25%;
+
+}
+
+.hello {
+  font-weight: normal;
+}
+
+.top {
+  background-color: #e4f9f5;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px
+}
+
+h3, .footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
